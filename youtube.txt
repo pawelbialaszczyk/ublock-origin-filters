@@ -1,0 +1,6 @@
+! Hide end of video recommendations
+youtube.com,youtube-nocookie.com##.ytp-ce-element
+youtube.com,youtube-nocookie.com##.ytp-ce-video
+
+! Hide pause video suggestions
+youtube.com,youtube-nocookie.com##.ytp-pause-overlay-container
