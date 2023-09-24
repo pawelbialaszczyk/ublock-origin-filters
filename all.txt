@@ -3,5 +3,5 @@
 ! Homepage: https://github.com/pawelbialaszczyk/ublock-origin-filters
 ! License: https://github.com/pawelbialaszczyk/ublock-origin-filters/blob/main/LICENSE
 
-!#include google.txt
 !#include feedly.txt
+!#include google.txt
