@@ -2,6 +2,7 @@
 feedly.com##button:has-text(Upgrade)
 
 ! Hide Mark as Read button
+feedly.com##.MarkAsReadButton
 feedly.com##button[title="Mark as Read"]
 
 ! Hide Create Team Newsletter button
