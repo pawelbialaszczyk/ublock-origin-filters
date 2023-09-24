@@ -10,3 +10,6 @@ feedly.com##button[title="Create Team Newsletter"]
 
 ! Hide Share with teammates button
 feedly.com##button[title="Share with teammates"]
+
+! Hide You might also like section
+feedly.com##h2:has-text(You might also like):nth-ancestor(1)
