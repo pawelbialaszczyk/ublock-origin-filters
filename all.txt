@@ -2,3 +2,5 @@
 ! Description: My personal uBlock Origin filters
 ! Homepage: https://github.com/pawelbialaszczyk/ublock-origin-filters
 ! License: https://github.com/pawelbialaszczyk/ublock-origin-filters/blob/main/LICENSE
+
+!#include google.txt
